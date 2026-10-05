@@ -468,11 +468,11 @@ Team **NJHL**
 
 | Team member | Role | Contributions evidenced in the repository |
 |---|---|---|
-| **Wong Jia Hui** | **Team Leader · Full-Stack Developer** | Led and contributed to the end-to-end shipping document verification workflow, including backend integration, AI-assisted SI/BL comparison, dashboard connectivity, security controls and project documentation. |
-| **Bong Zi Shan** | **Team Member · Platform Developer** | Contributed to the HolyShip platform implementation, product integration and team deliverables. |
-| **Lee Mei Shuet** | **Team Member · Workflow Developer** | Contributed to the email, document-verification and human-review workflows and project deliverables. |
-| **Christ Ting Shin Ling** | **Team Member · Validation Contributor** | Contributed to validation, testing and the team's end-to-end product deliverables. |
-| **Gan Rui En** | **Team Member · Product Contributor** | Contributed to product planning, presentation materials and the team's end-to-end project deliverables. |
+| **Wong Jia Hui** | **Team Leader · Full-Stack Developer** | Led system integration across the backend, product API and dashboard; contributed email synchronisation, processing and storage services, human-review workflows, frontend integration, evaluation reporting and technical documentation. |
+| **Bong Zi Shan** | **Frontend & Outlook Add-in Developer** | Built and refined the operations dashboard and Outlook task-pane experience, including discrepancy views, comparison states, styling, API integration, Office identity handling and frontend tests. |
+| **Lee Mei Shuet** | **Backend, Security & Analytics Developer** | Developed product API queries and routes, analytics helpers, security and AI-gateway configuration, response schemas, dashboard integration, security verification and related backend tests. |
+| **Christ Ting Shin Ling** | **Reliability & Human Review Contributor** | Contributed configuration, data-lifecycle and audit-event support, human-review semantics, Outlook label behaviour, UI refinements and integration tests across the platform. |
+| **Gan Rui En** | **AI Review Feature Developer** | Built AI-review interface components and workflows, including suggestion cards, editable recommendations, chat threads and supporting API/types; contributed migrations, fixtures, Outlook integration and frontend tests. |
 
 
 
