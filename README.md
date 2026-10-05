@@ -462,13 +462,17 @@ HolyShip is an end-to-end shipping email workflow that classifies incoming messa
 
 ---
 
-## Contributors
+## Team Contributions 👩🏼‍💻
 
-- Wong Jia Hui
-- Bong Zi Shan
-- Lee Mei Shuet
-- Christ Ting Shin Ling
-- Gan Rui En
+Team **NJHL**
+
+| Team member | Role | Contributions evidenced in the repository |
+|---|---|---|
+| **Wong Jia Hui** | **Full-Stack Developer** | Contributed to the end-to-end shipping document verification workflow, including backend integration, AI-assisted SI/BL comparison, dashboard connectivity, security controls and project documentation. |
+| **Bong Zi Shan** | **Team Member · Platform Developer** | Contributed to the HolyShip platform implementation, product integration and team deliverables. |
+| **Lee Mei Shuet** | **Team Member · Workflow Developer** | Contributed to the email, document-verification and human-review workflows and project deliverables. |
+| **Christ Ting Shin Ling** | **Team Member · Validation Contributor** | Contributed to validation, testing and the team's end-to-end product deliverables. |
+| **Gan Rui En** | **Team Member · Product Contributor** | Contributed to product planning, presentation materials and the team's end-to-end project deliverables. |
 
 
 
