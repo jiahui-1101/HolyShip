@@ -468,7 +468,7 @@ Team **NJHL**
 
 | Team member | Role | Contributions evidenced in the repository |
 |---|---|---|
-| **Wong Jia Hui** | **Full-Stack Developer** | Contributed to the end-to-end shipping document verification workflow, including backend integration, AI-assisted SI/BL comparison, dashboard connectivity, security controls and project documentation. |
+| **Wong Jia Hui** | **Team Leader · Full-Stack Developer** | Led and contributed to the end-to-end shipping document verification workflow, including backend integration, AI-assisted SI/BL comparison, dashboard connectivity, security controls and project documentation. |
 | **Bong Zi Shan** | **Team Member · Platform Developer** | Contributed to the HolyShip platform implementation, product integration and team deliverables. |
 | **Lee Mei Shuet** | **Team Member · Workflow Developer** | Contributed to the email, document-verification and human-review workflows and project deliverables. |
 | **Christ Ting Shin Ling** | **Team Member · Validation Contributor** | Contributed to validation, testing and the team's end-to-end product deliverables. |
